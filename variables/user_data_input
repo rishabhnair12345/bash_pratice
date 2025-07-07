@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+echo Whats your name:---
+read name
+echo Ok so you are $name !! Got it 
+echo Also type your age
+read age
+echo Hmm...$age and still young! wow
+

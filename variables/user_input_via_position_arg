@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo Whats your name:---
+echo Ok so you are $1 !! Got it
+echo Also type your age
+echo Hmm...$2 and still young! wow

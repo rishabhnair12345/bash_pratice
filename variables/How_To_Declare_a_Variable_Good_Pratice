@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#bad Way
+cp /my/loc/from /my/loc/to
+
+#good way
+My_Loc_From= /my/loc/from
+My_Loc_To= /my/loc/to 
+

@@ -1,0 +1,2 @@
+ls -l /usr/bin | grep bash
+echo filtred with the help of piping
