@@ -1,0 +1,9 @@
+#!/bin/bash
+
+week=(mon tue wed thus fri sat sun)
+i=0
+for days in ${week[@]}; do
+echo  ${week[i]}
+echo  -n $days | wc -c ;
+((i++))
+done
